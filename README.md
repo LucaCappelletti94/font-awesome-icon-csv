@@ -1,5 +1,6 @@
 # Font Awesome Icons
 [![CSV Health Check](https://github.com/LucaCappelletti94/font-awesome-icon-csv/actions/workflows/csv.yaml/badge.svg)](https://github.com/LucaCappelletti94/font-awesome-icon-csv/actions/workflows/csv.yaml)
+
 CSV with the [font-awesome](https://fontawesome.com/) free icons and their metadata as of version 6.5.2.
 
 You can get the CSV file [here](/font_awesome.csv).
